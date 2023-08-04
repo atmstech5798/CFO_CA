@@ -82,7 +82,7 @@
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
     "react-script": "^2.0.5",
-    "react-scripts": "3.4.0",
+    "react-scripts": "^3.4.0",
     "react-search": "^2.1.1",
     "react-select": "^3.0.8",
     "react-sparklines": "^1.7.0",
@@ -103,6 +103,7 @@
     "toastr": "^2.1.4",
     "use-screenshot-hook": "^1.0.2"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts --max_old_space_size=8000 build",
